@@ -1,0 +1,248 @@
+2012-11-10 01:06:25 Debug: permission: actionUrl-Projects/addProject
+2012-11-10 02:22:53 Debug: permission: actionUrl-Homes/career
+2012-11-10 02:22:56 Debug: permission: actionUrl-Homes/career
+2012-11-10 02:23:10 Debug: permission: actionUrl-Homes/career
+2012-11-10 02:24:22 Debug: permission: actionUrl-Homes/career
+2012-11-10 02:24:54 Debug: permission: actionUrl-Homes/career
+2012-11-10 02:25:13 Debug: permission: actionUrl-Homes/career
+2012-11-10 02:25:21 Debug: permission: actionUrl-Homes/career
+2012-11-10 02:25:50 Debug: permission: actionUrl-Homes/career
+2012-11-10 02:32:39 Debug: permission: actionUrl-Settings/adminSetting
+2012-11-10 03:52:45 Debug: permission: actionUrl-static_pages/editPage
+2012-11-10 04:04:05 Notice: Notice (8): Undefined index:  about in [/home/livemark/public_html/mahima_live/app/Controller/HomesController.php, line 154]
+Trace:
+HomesController::propertyLocater() - APP/Controller/HomesController.php, line 154
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-10 04:05:02 Notice: Notice (8): Undefined index:  about in [/home/livemark/public_html/mahima_live/app/Controller/HomesController.php, line 154]
+Trace:
+HomesController::propertyLocater() - APP/Controller/HomesController.php, line 154
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-10 04:06:13 Notice: Notice (8): Undefined variable: body in [/home/livemark/public_html/mahima_live/app/Controller/HomesController.php, line 181]
+Trace:
+HomesController::enquireyCenter() - APP/Controller/HomesController.php, line 181
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-10 04:07:28 Notice: Notice (8): Undefined variable: body in [/home/livemark/public_html/mahima_live/app/Controller/HomesController.php, line 228]
+Trace:
+HomesController::offerPartnership() - APP/Controller/HomesController.php, line 228
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-10 04:08:10 Notice: Notice (8): Undefined variable: body in [/home/livemark/public_html/mahima_live/app/Controller/HomesController.php, line 280]
+Trace:
+HomesController::needHelp() - APP/Controller/HomesController.php, line 280
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-10 04:08:43 Debug: permission: actionUrl-user_group_permissions/index
+2012-11-10 04:13:06 Debug: permission: actionUrl-users/dashboard
+2012-11-10 04:14:38 Debug: permission: actionUrl-users/dashboard
+2012-11-10 04:19:41 Debug: permission: actionUrl-users/dashboard
+2012-11-10 04:21:20 Debug: permission: actionUrl-users/dashboard
+2012-11-10 04:21:31 Debug: permission: actionUrl-users/dashboard
+2012-11-10 04:21:55 Debug: permission: actionUrl-users/dashboard
+2012-11-10 05:04:03 Debug: permission: actionUrl-Settings/adminSetting
+2012-11-10 05:07:09 Notice: Notice (8): Undefined variable: subCategoryList in [/home/livemark/public_html/mahima_live/app/Controller/ProjectsController.php, line 216]
+Trace:
+ProjectsController::projectSubCategory() - APP/Controller/ProjectsController.php, line 216
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-10 05:11:02 Notice: Notice (8): Undefined variable: subCategoryList in [/home/livemark/public_html/mahima_live/app/Controller/ProjectsController.php, line 216]
+Trace:
+ProjectsController::projectSubCategory() - APP/Controller/ProjectsController.php, line 216
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-10 05:11:25 Notice: Notice (8): Undefined index:  project_image in [/home/livemark/public_html/mahima_live/app/Controller/ProjectsController.php, line 60]
+Trace:
+ProjectsController::addProject() - APP/Controller/ProjectsController.php, line 60
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-10 05:12:44 Notice: Notice (8): Undefined index:  project_image in [/home/livemark/public_html/mahima_live/app/Controller/ProjectsController.php, line 135]
+Trace:
+ProjectsController::editProject() - APP/Controller/ProjectsController.php, line 135
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-10 05:21:19 Notice: Notice (8): Undefined index:  project_image_sub_category_id in [/home/livemark/public_html/mahima_live/app/View/Themed/Front/Projects/projectdetail.ctp, line 136]
+Trace:
+include - APP/View/Themed/Front/Projects/projectdetail.ctp, line 136
+View::_evaluate() - CORE/Cake/View/View.php, line 920
+View::_render() - CORE/Cake/View/View.php, line 883
+View::render() - CORE/Cake/View/View.php, line 475
+Controller::render() - CORE/Cake/Controller/Controller.php, line 957
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-10 05:39:59 Notice: Notice (8): Array to string conversion in [/home/livemark/public_html/mahima_live/lib/Cake/Model/Datasource/DboSource.php, line 1006]
+Trace:
+implode - [internal], line ??
+DboSource::create() - CORE/Cake/Model/Datasource/DboSource.php, line 1006
+Model::save() - CORE/Cake/Model/Model.php, line 1730
+CustomersController::addInvoice() - APP/Controller/CustomersController.php, line 419
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-10 05:40:46 Notice: Notice (8): Array to string conversion in [/home/livemark/public_html/mahima_live/lib/Cake/Model/Datasource/DboSource.php, line 1006]
+Trace:
+implode - [internal], line ??
+DboSource::create() - CORE/Cake/Model/Datasource/DboSource.php, line 1006
+Model::save() - CORE/Cake/Model/Model.php, line 1730
+CustomersController::addInvoice() - APP/Controller/CustomersController.php, line 419
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-10 05:41:22 Notice: Notice (8): Undefined variable: id in [/home/livemark/public_html/mahima_live/app/Controller/CustomersController.php, line 699]
+Trace:
+CustomersController::addAlert() - APP/Controller/CustomersController.php, line 699
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-10 05:44:18 Notice: Notice (8): Undefined variable: id in [/home/livemark/public_html/mahima_live/app/Controller/CustomersController.php, line 699]
+Trace:
+CustomersController::addAlert() - APP/Controller/CustomersController.php, line 699
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-10 06:08:38 Debug: permission: actionUrl-StaticPages/editPage
+2012-11-10 07:41:42 Notice: Notice (8): Undefined variable: subCategoryList in [/home/livemark/public_html/mahima_live/app/Controller/ProjectsController.php, line 216]
+Trace:
+ProjectsController::projectSubCategory() - APP/Controller/ProjectsController.php, line 216
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92
+
+2012-11-29 17:54:27 Debug: permission: actionUrl-homes/index
+2012-11-29 17:54:27 Debug: permission: actionUrl-homes/index
+2012-11-29 17:54:34 Debug: permission: actionUrl-homes/index
+2012-11-29 17:54:34 Debug: permission: actionUrl-homes/index
+2012-11-29 17:54:34 Debug: permission: actionUrl-homes/index
+2012-11-29 17:54:34 Debug: permission: actionUrl-homes/index
+2012-11-29 17:54:34 Debug: permission: actionUrl-homes/index
+2012-11-29 17:54:34 Debug: permission: actionUrl-homes/index
+2012-11-29 17:54:35 Debug: permission: actionUrl-homes/index
+2012-11-29 17:54:35 Debug: permission: actionUrl-homes/index
+2012-11-29 18:05:46 Debug: permission: actionUrl-homes/index
+2012-11-29 18:05:46 Debug: permission: actionUrl-homes/index
+2012-11-29 20:02:50 Debug: permission: actionUrl-Marketings/allMarketing
+2012-12-11 16:20:18 Debug: permission: actionUrl-Projects/editProject
+2012-12-11 20:17:22 Debug: permission: actionUrl-ProjectImages/addProjectImage
+2012-12-12 15:49:14 Debug: permission: actionUrl-EmailTemplates/editEmailTemplate
+2012-12-12 19:49:47 Debug: permission: actionUrl-MassEmails/gettemplate
+2012-12-12 19:49:50 Debug: permission: actionUrl-mass_emails/sendmail
+2012-12-13 16:15:10 Debug: permission: actionUrl-customers/addCustomer
+2012-12-13 18:40:21 Debug: permission: actionUrl-customers/importcsv
+2012-12-13 18:40:24 Debug: permission: actionUrl-customers/importcsv
+2012-12-13 18:40:38 Debug: permission: actionUrl-customers/addCustomer
+2012-12-13 20:45:33 Debug: permission: actionUrl-customers/addCustomer
+2012-12-16 13:54:36 Debug: permission: actionUrl-Projects/allProject
+2012-12-16 14:02:38 Debug: permission: actionUrl-users/index
+2012-12-16 17:55:43 Debug: permission: actionUrl-Vendors/vendorPaymentList
+2012-12-20 13:25:17 Debug: permission: actionUrl-MassMessages/sendsms
+2012-12-20 17:26:09 Debug: permission: actionUrl-mass_messages/sendsms
+2012-12-20 17:37:46 Debug: permission: actionUrl-mass_messages/sendsms
+2012-12-26 16:25:45 Debug: permission: actionUrl-users/index
+2012-12-26 17:43:13 Debug: permission: actionUrl-twitter/index
+2012-12-26 17:46:26 Debug: permission: actionUrl-twitter/index
+2012-12-26 17:47:30 Debug: permission: actionUrl-twitter/index
+2012-12-26 17:49:43 Debug: permission: actionUrl-twitter/index
+2012-12-26 17:50:47 Debug: permission: actionUrl-twitter/index
+2012-12-26 17:51:19 Debug: permission: actionUrl-twitter/index
+2012-12-26 17:52:37 Debug: permission: actionUrl-twitter/index
+2012-12-26 17:54:02 Debug: permission: actionUrl-twitter/index
+2012-12-26 17:56:13 Debug: permission: actionUrl-twitter/index
+2012-12-26 18:09:23 Debug: permission: actionUrl-twitters/index
+2012-12-26 18:09:49 Debug: permission: actionUrl-twitter/index
+2012-12-26 18:32:45 Debug: permission: actionUrl-twitter/login
+2012-12-26 18:42:42 Debug: permission: actionUrl-twitter/index
+2012-12-26 18:44:26 Debug: permission: actionUrl-twitter/index
+2012-12-26 18:49:31 Debug: permission: actionUrl-twitter/index
+2012-12-26 20:14:33 Debug: permission: actionUrl-twitter/index
+2012-12-27 19:37:24 Debug: permission: actionUrl-registrations/stepTwo
+2012-12-27 21:16:06 Debug: permission: actionUrl-registrations/stepOne
+2012-12-29 08:54:19 Debug: permission: actionUrl-registrations/stepOne
+2012-12-29 08:54:38 Debug: permission: actionUrl-users/dashboard
+2012-12-31 09:20:43 Debug: permission: actionUrl-registrations/stepTwo
+2012-12-31 09:24:36 Debug: permission: actionUrl-registrations/stepTwo
+2012-12-31 09:24:49 Debug: permission: actionUrl-registrations/stepTwo
+2012-12-31 09:26:09 Debug: permission: actionUrl-registrations/stepOne
+2013-01-02 01:09:04 Debug: permission: actionUrl-registrations/thankYou
+2013-01-03 00:40:23 Debug: permission: actionUrl-registrations/stepTwo
+2013-01-03 03:47:59 Debug: permission: actionUrl-MassEmails/sendmail
+2013-01-09 00:26:46 Debug: Array
+(
+    [headers] => From: User Management Plugin <example@example.com>
+X-Mailer: CakePHP Email
+Date: Wed, 09 Jan 2013 00:26:46 -0500
+Message-ID: <50ecff96d19c4e01a476378bd82634cb@www.seobranddev.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+    [message] => Welcome Alex Jobs, let's help you get signed in
+
+You have requested to have your password reset on User Management Plugin.
+Please click the link below to reset your password now :
+
+http://www.seobranddev.com/twit2pay_live/activatePassword?ident=73&activate=29db8c5f7993ea6ce4825a0e0121520d
+
+
+If above link does not work please copy and paste the URL link (above) into
+your browser address bar to get to the Page to reset password
+
+Choose a password you can remember and please keep it secure.
+
+Thanks,
+User Management Plugin
+
+
+)
+

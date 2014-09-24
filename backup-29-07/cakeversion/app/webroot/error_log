@@ -1,0 +1,65 @@
+[09-Nov-2012 04:03:20] PHP Warning:  unlink(/home/livemark/public_html/mahima_live/app/tmp/cache/models/myapp_cake_model_default_livemark_mahi_job_postings) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/livemark/public_html/mahima_live/lib/Cake/Cache/Engine/FileEngine.php on line 254
+[09-Nov-2012 04:03:20] PHP Warning:  unlink(/home/livemark/public_html/mahima_live/app/tmp/cache/models/myapp_cake_model_default_livemark_mahi_states) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/livemark/public_html/mahima_live/lib/Cake/Cache/Engine/FileEngine.php on line 254
+[09-Nov-2012 04:03:20] PHP Warning:  unlink(/home/livemark/public_html/mahima_live/app/tmp/cache/models/myapp_cake_model_default_livemark_mahi_news) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/livemark/public_html/mahima_live/lib/Cake/Cache/Engine/FileEngine.php on line 254
+[09-Nov-2012 04:03:20] PHP Warning:  unlink(/home/livemark/public_html/mahima_live/app/tmp/cache/models/myapp_cake_model_default_livemark_mahi_countries) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/livemark/public_html/mahima_live/lib/Cake/Cache/Engine/FileEngine.php on line 254
+[09-Nov-2012 04:03:20] PHP Warning:  unlink(/home/livemark/public_html/mahima_live/app/tmp/cache/models/myapp_cake_model_default_livemark_mahi_login_tokens) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/livemark/public_html/mahima_live/lib/Cake/Cache/Engine/FileEngine.php on line 254
+[09-Nov-2012 04:28:46] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/livemark/public_html/mahima_live/app/webroot/xml.php on line 3
+[09-Nov-2012 04:29:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/livemark/public_html/mahima_live/app/webroot/xml.php on line 3
+[09-Nov-2012 07:36:44] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/livemark/public_html/mahima_live/app/View/Themed/Admin/Layouts/default.ctp on line 56
+[09-Nov-2012 07:36:44] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/livemark/public_html/mahima_live/app/View/Themed/Admin/Layouts/default.ctp on line 56
+[09-Nov-2012 08:30:25] PHP Parse error:  syntax error, unexpected $end in /home/livemark/public_html/mahima_live/app/Controller/HomesController.php on line 35
+[09-Nov-2012 07:30:25] PHP Parse error:  syntax error, unexpected $end in /home/livemark/public_html/mahima_live/app/Controller/HomesController.php on line 174
+[09-Nov-2012 09:04:52] PHP Parse error:  syntax error, unexpected $end in /home/livemark/public_html/mahima_live/app/Controller/HomesController.php on line 35
+[09-Nov-2012 23:59:29] PHP Notice:  Undefined index:  Error in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 98
+[09-Nov-2012 23:59:29] PHP Notice:  Undefined index:  Exception in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 99
+[09-Nov-2012 23:59:30] PHP Notice:  Undefined index:  Error in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 98
+[09-Nov-2012 23:59:30] PHP Notice:  Undefined index:  Exception in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 99
+[09-Nov-2012 23:59:30] PHP Notice:  Undefined index:  Error in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 98
+[09-Nov-2012 23:59:30] PHP Notice:  Undefined index:  Exception in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 99
+[09-Nov-2012 23:59:30] PHP Notice:  Undefined index:  Error in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 98
+[09-Nov-2012 23:59:30] PHP Notice:  Undefined index:  Exception in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 99
+[09-Nov-2012 23:59:30] PHP Fatal error:  Class name must be a valid object or a string in /home/livemark/public_html/mahima_live/lib/Cake/Error/ErrorHandler.php on line 126
+[09-Nov-2012 23:59:30] PHP Notice:  Undefined index:  Error in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 98
+[09-Nov-2012 23:59:30] PHP Notice:  Undefined index:  Exception in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 99
+[09-Nov-2012 23:59:30] PHP Notice:  Undefined index:  Error in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 98
+[09-Nov-2012 23:59:30] PHP Notice:  Undefined index:  Exception in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 99
+[09-Nov-2012 23:59:30] PHP Notice:  Undefined index:  Error in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 98
+[09-Nov-2012 23:59:30] PHP Notice:  Undefined index:  Exception in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 99
+[09-Nov-2012 23:59:30] PHP Notice:  Undefined index:  Error in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 98
+[09-Nov-2012 23:59:30] PHP Notice:  Undefined index:  Exception in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 99
+[09-Nov-2012 23:59:30] PHP Notice:  Undefined index:  Error in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 98
+[09-Nov-2012 23:59:30] PHP Notice:  Undefined index:  Exception in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 99
+[09-Nov-2012 23:59:30] PHP Notice:  Undefined index:  Error in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 98
+[09-Nov-2012 23:59:30] PHP Notice:  Undefined index:  Exception in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 99
+[09-Nov-2012 23:59:31] PHP Notice:  Undefined index:  Error in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 98
+[09-Nov-2012 23:59:31] PHP Notice:  Undefined index:  Exception in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 99
+[09-Nov-2012 23:59:31] PHP Notice:  Undefined index:  Error in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 98
+[09-Nov-2012 23:59:31] PHP Notice:  Undefined index:  Exception in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 99
+[09-Nov-2012 23:59:31] PHP Notice:  Undefined index:  Error in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 98
+[09-Nov-2012 23:59:31] PHP Notice:  Undefined index:  Exception in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 99
+[09-Nov-2012 23:59:31] PHP Notice:  Undefined index:  Error in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 98
+[09-Nov-2012 23:59:31] PHP Notice:  Undefined index:  Exception in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 99
+[09-Nov-2012 23:59:31] PHP Notice:  Undefined index:  Error in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 98
+[09-Nov-2012 23:59:31] PHP Notice:  Undefined index:  Exception in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 99
+[09-Nov-2012 23:59:31] PHP Notice:  Undefined index:  Error in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 98
+[09-Nov-2012 23:59:31] PHP Notice:  Undefined index:  Exception in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 99
+[09-Nov-2012 23:59:31] PHP Notice:  Undefined index:  Error in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 98
+[09-Nov-2012 23:59:31] PHP Notice:  Undefined index:  Exception in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 99
+[09-Nov-2012 23:59:31] PHP Notice:  Undefined index:  Error in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 98
+[09-Nov-2012 23:59:31] PHP Notice:  Undefined index:  Exception in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 99
+[09-Nov-2012 23:59:31] PHP Warning:  Unterminated comment starting line 73 in /home/livemark/public_html/mahima_live/app/Config/core.php on line 73
+[09-Nov-2012 23:59:31] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/livemark/public_html/mahima_live/app/Config/core.php on line 73
+[09-Nov-2012 23:59:31] PHP Warning:  Unterminated comment starting line 73 in /home/livemark/public_html/mahima_live/app/Config/core.php on line 73
+[09-Nov-2012 23:59:31] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/livemark/public_html/mahima_live/app/Config/core.php on line 73
+[09-Nov-2012 23:59:31] PHP Warning:  Unterminated comment starting line 73 in /home/livemark/public_html/mahima_live/app/Config/core.php on line 73
+[09-Nov-2012 23:59:31] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/livemark/public_html/mahima_live/app/Config/core.php on line 73
+[09-Nov-2012 23:59:31] PHP Warning:  Unterminated comment starting line 73 in /home/livemark/public_html/mahima_live/app/Config/core.php on line 73
+[09-Nov-2012 23:59:31] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/livemark/public_html/mahima_live/app/Config/core.php on line 73
+[09-Nov-2012 23:59:31] PHP Warning:  Unterminated comment starting line 73 in /home/livemark/public_html/mahima_live/app/Config/core.php on line 73
+[09-Nov-2012 23:59:31] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/livemark/public_html/mahima_live/app/Config/core.php on line 73
+[09-Nov-2012 23:59:32] PHP Warning:  Unterminated comment starting line 73 in /home/livemark/public_html/mahima_live/app/Config/core.php on line 73
+[09-Nov-2012 23:59:32] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/livemark/public_html/mahima_live/app/Config/core.php on line 73
+[10-Nov-2012 02:55:01] PHP Warning:  unlink(/home/livemark/public_html/mahima_live/app/tmp/cache/persistent/myapp_cake_core_cake_dev_) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/livemark/public_html/mahima_live/lib/Cake/Cache/Engine/FileEngine.php on line 254
+[10-Nov-2012 03:02:32] PHP Notice:  Undefined index:  Error in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 98
+[10-Nov-2012 03:02:32] PHP Notice:  Undefined index:  Exception in /home/livemark/public_html/mahima_live/lib/Cake/Core/Configure.php on line 99
+[10-Nov-2012 03:02:32] PHP Fatal error:  Class name must be a valid object or a string in /home/livemark/public_html/mahima_live/lib/Cake/Error/ErrorHandler.php on line 126
